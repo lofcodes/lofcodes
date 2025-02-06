@@ -17,10 +17,7 @@ Engineer, Irishman, Builder, AWS cloud, DevOps and Serverless enthusiast.
 ## Certs
 
 <a target="_blank" href="https://www.credly.com/badges/1e3bc15f-5f98-4e19-872c-8d9555890836/public_url"><img alt="AWS Certified Developer - Associate" src="https://github.com/lofcodes/lofcodes/blob/main/assets/developer.png" width="100"></a>
-
 <a target="_blank" href="https://www.credly.com/badges/1e1814ce-432f-46fb-b9bd-33d3a2838b1b/public_url"><img alt="AWS Certified SysOps Administrator - Associate" src="https://github.com/lofcodes/lofcodes/blob/main/assets/sysops.png" width="100"></a>
-
 <a target="_blank" href="https://www.credly.com/badges/bb37b33d-49e8-4aff-a5bc-4c7cbf5534c4/public_url"><img alt="AWS Certified Solutions Architect - Associate" src="https://github.com/lofcodes/lofcodes/blob/main/assets/solutions-architect.png" width="100"></a>
-
 <a target="_blank" href="https://www.credly.com/badges/49dce513-f7fa-49b4-b4ee-882628d39707/public_url"><img alt="AWS Certified Cloud Practitioner" src="https://github.com/lofcodes/lofcodes/blob/main/assets/cloud-practitioner.png" width="100">
 </a>
