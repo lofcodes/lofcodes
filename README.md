@@ -14,7 +14,7 @@
 
 ## About me
 
-Engineer, Irishman, Builder, AWS cloud, DevOps and Serverless enthusiast.
+Engineer, Irishman, Builder, AWS Cloud, DevSecOps, GRC and Serverless enthusiast.
 
 ## Certs
 
